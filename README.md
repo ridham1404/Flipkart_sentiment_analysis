@@ -3,12 +3,12 @@
 An end-to-end Deep Learning based Sentiment Analysis system built using LSTM and deployed with FastAPI.
 # Tech Stack
 
-Python
-Scikit-learn
-NLP 
-LSTM
-FASTAPI
-Git & GitHub
+- Python
+- Scikit-learn
+- NLP 
+- LSTM
+- FASTAPI
+- Git & GitHub
 
 ## Features
 
