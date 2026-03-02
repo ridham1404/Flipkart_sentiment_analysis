@@ -1,6 +1,14 @@
 # Flipkart Sentiment Analysis 
 
 An end-to-end Deep Learning based Sentiment Analysis system built using LSTM and deployed with FastAPI.
+# Tech Stack
+
+Python
+Scikit-learn
+NLP 
+LSTM
+FASTAPI
+Git & GitHub
 
 ## Features
 
@@ -32,5 +40,7 @@ Test Accuracy: ~90%
 ##  How to Run
 
 ```bash
+git clone <https://github.com/ridham1404/Flipkart_sentiment_analysis.git>
+cd Flipkart_sentiment_analysis
 pip install -r requirements.txt
-uvicorn src.app:app --reload
+python app.py
